@@ -1,0 +1,457 @@
+{
+	"folder_history":
+	[
+		"/E/IFE2016"
+	],
+	"last_version": 3103,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fo",
+						"form	Tag"
+					],
+					[
+						"th",
+						"th	Tag"
+					],
+					[
+						"l",
+						"li	Tag"
+					],
+					[
+						"h",
+						"h2	Tag"
+					],
+					[
+						"fi",
+						"figcaption	Tag"
+					],
+					[
+						"al",
+						"alt	Attr"
+					],
+					[
+						"are",
+						"article	Tag"
+					],
+					[
+						"he",
+						"header	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/IFE2016/S1/T1.html",
+					"settings":
+					{
+						"buffer_size": 3612,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/IFE2016/GMT/task1.html",
+					"settings":
+					{
+						"buffer_size": 5057,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"Tag: Auto-Format Tags on Document"
+					],
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"reindent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"",
+						"Convert Case: Lower Case"
+					]
+				],
+				"width": 424.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/IFE2016",
+				"/E/IFE2016/GMT",
+				"/E/IFE2016/S1"
+			],
+			"file_history":
+			[
+				"/C/Users/grace/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/grace/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/grace/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/grace/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/grace/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/grace/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/E/IFE2016/S1/T1.html"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 105.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\IFE2016"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/IFE2016/S1/T1.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3612,
+								"regions":
+								{
+									"TagLint":
+									{
+										"flags": 2356,
+										"icon": "dot",
+										"regions":
+										[
+											[
+												3535,
+												3535
+											]
+										],
+										"scope": "variable.parameter"
+									}
+								},
+								"selection":
+								[
+									[
+										3535,
+										3535
+									]
+								],
+								"settings":
+								{
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.popup_active": false,
+									"color_helper.popup_auto": true,
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"hex_compressed",
+											"webcolors",
+											"hex",
+											"rgba",
+											"rgb",
+											"hsla",
+											"hsl"
+										],
+										"compress_hex_output": true,
+										"current_ext": ".html",
+										"current_syntax": "HTML/HTML",
+										"enabled": true,
+										"last_updated": 1459058614.42,
+										"scan_completion_scopes":
+										[
+										],
+										"scan_scopes":
+										[
+											"meta.property-value.css -comment -string",
+											"meta.value.css -comment -string",
+											"meta.tag.inline.any.html string.quoted",
+											"meta.tag.any.html meta.attribute-with-value.style.html"
+										],
+										"use_hex_argb": false
+									},
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3013.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/IFE2016/GMT/task1.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5057,
+								"regions":
+								{
+									"TagLint":
+									{
+										"flags": 2356,
+										"icon": "dot",
+										"regions":
+										[
+											[
+												3618,
+												3619
+											]
+										],
+										"scope": "variable.parameter"
+									}
+								},
+								"selection":
+								[
+									[
+										365,
+										365
+									]
+								],
+								"settings":
+								{
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"hex_compressed",
+											"webcolors",
+											"hex",
+											"rgba",
+											"rgb",
+											"hsla",
+											"hsl"
+										],
+										"compress_hex_output": true,
+										"current_ext": ".html",
+										"current_syntax": "HTML/HTML",
+										"enabled": true,
+										"last_updated": 1459058614.42,
+										"scan_completion_scopes":
+										[
+										],
+										"scan_scopes":
+										[
+											"meta.property-value.css -comment -string",
+											"meta.value.css -comment -string",
+											"meta.tag.inline.any.html string.quoted",
+											"meta.tag.any.html meta.attribute-with-value.style.html"
+										],
+										"use_hex_argb": false
+									},
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1122,155,72,1522",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
